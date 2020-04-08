@@ -1,0 +1,182 @@
+{
+  "code": 1,
+  "message": "操作成功",
+  "data": [
+    {
+      "addBudgetFund": -26.80,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 1031.12,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 38.45,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 162.78,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 27.53,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 102.02,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 230.60,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": null,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 0.00,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 1093.27,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 9.50,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 38.32,
+      "changeType": "重大"
+    },
+    {
+      "addBudgetFund": 1140.71,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 233.99,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": null,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": null,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": -234.57,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 547.37,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": null,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": null,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 63.95,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 1112.57,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 100.20,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 8.91,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 290.87,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 7.67,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 15.50,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 2.50,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 17.41,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": -104.80,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 4.21,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": null,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": null,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 4220.10,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 104.90,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 1.70,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 0.00,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": null,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": -154.00,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 259.50,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": -176.51,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 9.50,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": null,
+      "changeType": "一般"
+    },
+    {
+      "addBudgetFund": 150.68,
+      "changeType": "重大"
+    }
+  ]
+}

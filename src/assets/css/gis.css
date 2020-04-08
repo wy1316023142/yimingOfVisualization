@@ -1,0 +1,125 @@
+.gis-popup {
+    position: absolute;
+    background-color: #51575E;
+    -webkit-filter: drop-shadow(0 1px 4px rgba(0,0,0,.2));
+    filter: drop-shadow(0 1px 4px rgba(0,0,0,.2));
+    bottom: 12px;
+    left: -50px;
+    min-width: 330px;
+}
+
+.gis-popup:after,
+.gis-popup:before {
+	top: 100%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.gis-popup-closer {
+	text-decoration: none;
+	position: absolute;
+	top: 2px;
+	right: 8px;
+    z-index: 10000;
+    height: 21px;
+    width: 21px;
+    background: url('../img/close.png');
+}
+.info-main {
+	z-index: 99;
+	position: relative;
+	overflow: hidden;
+}
+
+.info-title{
+    background-color: #2E3748;
+    height: 28px;
+	position: relative;
+	color: #ccc;
+	font-size: 16px;
+	font-weight: bold;
+	.el-icon-close {
+		color: #ccc;
+		float: right;
+    }
+}
+.info-title span {
+    display: block;
+    padding-top: 6px;
+    padding-left: 8px;
+}
+.info-content img{
+    height: 140px;
+    width: 173px;
+    padding: 10px;
+    float: left;
+}
+.info-content span{
+    display: block;
+    padding: 7px;
+    color: #CED7DB;
+    font-size: 12px;
+    line-height: 22px;
+    text-indent:25px;
+}
+
+.snk {
+	padding: 5px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	line-height: 1.42857143;
+	color: #333;
+	text-indent: 2em;
+}
+
+.snkimage {
+	display: inline-block;
+	margin: 10px 5px;
+	width: 48%;
+	height: 300px;
+}
+
+.snkbutton {
+	width: 100%;
+	display: inline-block;
+	text-align: right;
+}
+
+.snkbutton #button2 {
+	display: inline-block;
+	background-color: rgb(96, 120, 222);
+	color: white;
+}
+
+.snkbutton #button1 {
+
+	display: inline-block;
+	background-color: rgb(96, 120, 222);
+	color: white;
+}
+
+.icon-img-fuwei {
+	opacity:0.8;
+	width: 40px;
+	display: inline-block;
+	height: 40px;
+	background: url('../img/复位.png') no-repeat;
+	background-size: 40px;
+	margin-left:-4px;
+	margin-top: -4px;
+	cursor: pointer;
+}
+.icon-img-fuwei:hover {
+	opacity:1;
+	width: 40px;
+	display: inline-block;
+	height: 40px;
+	background: url('../img/复位.png') no-repeat;
+	background-size: 40px;
+	margin-left:-4px;
+	margin-top: -4px;
+}
